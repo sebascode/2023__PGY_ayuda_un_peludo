@@ -1,0 +1,15 @@
+h1#title-index {
+    color: red;
+}
+
+h1#title-perros {
+    color: green;
+}
+
+h1#title-gatos {
+    color: brown;
+}
+
+table tr td {
+    border: 1px solid blue;
+}
